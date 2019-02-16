@@ -1,0 +1,6 @@
+name: MailMe
+description: This module features a simple block used for sending emails
+package: Custom
+type: module
+version: 1.0
+core: 8.x
